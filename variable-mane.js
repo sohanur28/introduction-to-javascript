@@ -25,3 +25,7 @@ var usercurrenthomeaddress = "andor killa bandor ban";
 var user_home_address = "andor killa bandor ban"; // snake case
 var userHomeAddress = "andor killa bandor ban";  // camel case
 var UserHomeAddress = "andor killa bandor ban"; // pascal case
+
+//  variable name is case sensitive
+var person = 25;
+var Person = 35;
